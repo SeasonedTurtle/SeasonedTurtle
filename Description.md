@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SeasonedTurtle
 - 👀 I’m interested in computer science
-- 🌱 I’m currently learning python and datascience
+- 🌱 I’m currently learning python and C++
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me Chickenmaster985@gmail.com
 
